@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hit1">Первое число</string>
+    <string name="hit2">Второе число</string>
+    <string name="calcul">Калькулятор</string>
+
+</resources>
